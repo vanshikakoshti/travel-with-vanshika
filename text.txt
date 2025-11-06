@@ -1,0 +1,15 @@
+https://tanyakhanijow.com/
+
+about
+
+Travel with Vanshika is a personal travel website designed and developed to showcase my skills in web design and front-end development while reflecting my passion for travel and storytelling.
+
+This project demonstrates my ability to create a visually appealing, responsive, and user-friendly website using modern web technologies such as HTML, CSS, JavaScript, and React. The design focuses on clean layouts, smooth navigation, and engaging visuals to provide an immersive browsing experience.
+
+Through this project, I highlight how creativity and functionality can come together to build a professional digital presence — one that not only shares travel experiences but also represents strong design principles and technical expertise.
+
+Travel with Vanshika is my personal travel website where I blend my passion for exploring new places with my love for clean and creative web design. It’s more than just a travel blog — it’s a digital reflection of how I see the world through both code and curiosity.
+
+Here, you’ll find travel experiences, guides, and inspiration wrapped in a simple, user-friendly design that I’ve built using modern web technologies. My goal is to make every visitor feel connected to the adventure — whether it’s through stories, visuals, or smooth web experiences.
+
+Through Travel with Vanshika, I aim to inspire others to explore the world and embrace creativity in every journey. Each destination I visit becomes a new story, a new lesson, and a new design idea — reminding me that travel isn’t just about where you go, but how you see and create along the way
